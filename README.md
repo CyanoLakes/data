@@ -15,3 +15,11 @@ When using the data, the relevant publications must be cited or acknowledged:
 - Matthews, M. W., Bernard, S., Evers-King, H., & Lain, L. R. (2020). Distinguishing cyanobacteria from algae in optically complex inland waters using a hyperspectral radiative transfer inversion algorithm. Remote Sensing of Environment, 248, 111981.
 - Kravitz, J., Matthews, M., Bernard, S., & Griffith, D. (2020). Application of Sentinel 3 OLCI for chl-a retrieval over small inland water targets: Successes and challenges. Remote Sensing of Environment, 237, 111562.
 
+# Contributions
+
+You are welcome to contribute your data to this repository. There is no format, however the data should appear in a peer-review published article. Simply place your data in a folder and create a pull request.  
+
+Data is restricted to: 
+- Apparent Optical Properties
+- Inherent Optical Properties
+- Biogeophysical Data 

@@ -1,10 +1,17 @@
-# data
-CyanoLakes data repository for remote sensing of inland waters
+# CyanoLakes data repository for remote sensing of inland waters
 
-Contains data collected at: 
+Contains data collected at the following lakes between 2008 and 2020: 
 - Zeekoevlei
-- Hartbeespoort
-- Loskop
-- Theewaterskoof
+- Hartbeespoort Dam
+- Loskop Dam
+- Theewaterskoof Dam
+- Roodeplaat Dam
+- Vaal Dam
 
-Use is granted in terms of the license. All use must attribute the associated publication, further details provided in the data files themselves. 
+When using the data, the relevant publications must be cited or acknowledged: 
+
+- Matthews, M. W., Bernard, S., & Winter, K. (2010). Remote sensing of cyanobacteria-dominant algal blooms and water quality parameters in Zeekoevlei, a small hypertrophic lake, using MERIS. Remote sensing of environment, 114(9), 2070-2087.
+- Matthews, M. W., & Bernard, S. (2013). Characterizing the absorption properties for remote sensing of three small optically-diverse South African reservoirs. Remote Sensing, 5(9), 4370-4404.
+- Matthews, M. W., Bernard, S., Evers-King, H., & Lain, L. R. (2020). Distinguishing cyanobacteria from algae in optically complex inland waters using a hyperspectral radiative transfer inversion algorithm. Remote Sensing of Environment, 248, 111981.
+- Kravitz, J., Matthews, M., Bernard, S., & Griffith, D. (2020). Application of Sentinel 3 OLCI for chl-a retrieval over small inland water targets: Successes and challenges. Remote Sensing of Environment, 237, 111562.
+
